@@ -1,5 +1,4 @@
-// tsconfig.json
-{
+export default {
     "compilerOptions": {
         "baseUrl": ".",
         "paths": {
