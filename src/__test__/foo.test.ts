@@ -1,4 +1,4 @@
-import { sum } from "@app/foo";
+import { sum } from "../foo";
 
 test('basic', () => {
     expect(sum()).toBe(0);
